@@ -47,7 +47,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     height: 55,
                     child: FlatButton(
                       shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(23),
+                        borderRadius: BorderRadius.circular(80),
                       ),
                       color: KPrimaryColor,
                       onPressed: (){
