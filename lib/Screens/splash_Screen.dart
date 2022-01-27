@@ -1,6 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:foodtest/Components/imageComponents.dart';
+import 'package:foodtest/Models/Product.dart';
+import 'package:foodtest/Models/Product_api.dart';
 
 
 import '../constants.dart';
@@ -14,10 +16,11 @@ class SplashScreen extends StatefulWidget {
 }
 
 class _SplashScreenState extends State<SplashScreen> {
+
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-      body: Stack(
+      body:  Stack(
           children : [
             const Positioned(
                 top: 20,
