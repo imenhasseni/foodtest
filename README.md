@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![Alt text](/Users/macbook/Desktop/food1.jpg?raw=true "Optional Title")
+
 
 
 This project is a starting point for a Flutter application.
