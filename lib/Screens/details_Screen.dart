@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 class DetailsScreen extends StatelessWidget {
   const DetailsScreen({Key? key, Product }) : super(key: key);
